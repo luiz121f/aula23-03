@@ -1,0 +1,32 @@
+C:\Users\facec.lab04\source\repos\aula-23-03\Exercicio9\bin\Debug\net5.0\Exercicio9.exe
+C:\Users\facec.lab04\source\repos\aula-23-03\Exercicio9\bin\Debug\net5.0\Exercicio9.deps.json
+C:\Users\facec.lab04\source\repos\aula-23-03\Exercicio9\bin\Debug\net5.0\Exercicio9.runtimeconfig.json
+C:\Users\facec.lab04\source\repos\aula-23-03\Exercicio9\bin\Debug\net5.0\Exercicio9.runtimeconfig.dev.json
+C:\Users\facec.lab04\source\repos\aula-23-03\Exercicio9\bin\Debug\net5.0\Exercicio9.dll
+C:\Users\facec.lab04\source\repos\aula-23-03\Exercicio9\bin\Debug\net5.0\ref\Exercicio9.dll
+C:\Users\facec.lab04\source\repos\aula-23-03\Exercicio9\bin\Debug\net5.0\Exercicio9.pdb
+C:\Users\facec.lab04\source\repos\aula-23-03\Exercicio9\obj\Debug\net5.0\Exercicio9.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\source\repos\aula-23-03\Exercicio9\obj\Debug\net5.0\Exercicio9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab04\source\repos\aula-23-03\Exercicio9\obj\Debug\net5.0\Exercicio9.AssemblyInfoInputs.cache
+C:\Users\facec.lab04\source\repos\aula-23-03\Exercicio9\obj\Debug\net5.0\Exercicio9.AssemblyInfo.cs
+C:\Users\facec.lab04\source\repos\aula-23-03\Exercicio9\obj\Debug\net5.0\Exercicio9.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\source\repos\aula-23-03\Exercicio9\obj\Debug\net5.0\Exercicio9.dll
+C:\Users\facec.lab04\source\repos\aula-23-03\Exercicio9\obj\Debug\net5.0\ref\Exercicio9.dll
+C:\Users\facec.lab04\source\repos\aula-23-03\Exercicio9\obj\Debug\net5.0\Exercicio9.pdb
+C:\Users\facec.lab04\source\repos\aula-23-03\Exercicio9\obj\Debug\net5.0\Exercicio9.genruntimeconfig.cache
+C:\Users\Luizão157\Desktop\Minha Pasta\Conteúdos\5º Semestre\Programação IV\aula-23-03\Exercicio9\bin\Debug\net5.0\Exercicio9.exe
+C:\Users\Luizão157\Desktop\Minha Pasta\Conteúdos\5º Semestre\Programação IV\aula-23-03\Exercicio9\bin\Debug\net5.0\Exercicio9.deps.json
+C:\Users\Luizão157\Desktop\Minha Pasta\Conteúdos\5º Semestre\Programação IV\aula-23-03\Exercicio9\bin\Debug\net5.0\Exercicio9.runtimeconfig.json
+C:\Users\Luizão157\Desktop\Minha Pasta\Conteúdos\5º Semestre\Programação IV\aula-23-03\Exercicio9\bin\Debug\net5.0\Exercicio9.runtimeconfig.dev.json
+C:\Users\Luizão157\Desktop\Minha Pasta\Conteúdos\5º Semestre\Programação IV\aula-23-03\Exercicio9\bin\Debug\net5.0\Exercicio9.dll
+C:\Users\Luizão157\Desktop\Minha Pasta\Conteúdos\5º Semestre\Programação IV\aula-23-03\Exercicio9\bin\Debug\net5.0\Exercicio9.pdb
+C:\Users\Luizão157\Desktop\Minha Pasta\Conteúdos\5º Semestre\Programação IV\aula-23-03\Exercicio9\obj\Debug\net5.0\Exercicio9.csproj.AssemblyReference.cache
+C:\Users\Luizão157\Desktop\Minha Pasta\Conteúdos\5º Semestre\Programação IV\aula-23-03\Exercicio9\obj\Debug\net5.0\Exercicio9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luizão157\Desktop\Minha Pasta\Conteúdos\5º Semestre\Programação IV\aula-23-03\Exercicio9\obj\Debug\net5.0\Exercicio9.AssemblyInfoInputs.cache
+C:\Users\Luizão157\Desktop\Minha Pasta\Conteúdos\5º Semestre\Programação IV\aula-23-03\Exercicio9\obj\Debug\net5.0\Exercicio9.AssemblyInfo.cs
+C:\Users\Luizão157\Desktop\Minha Pasta\Conteúdos\5º Semestre\Programação IV\aula-23-03\Exercicio9\obj\Debug\net5.0\Exercicio9.csproj.CoreCompileInputs.cache
+C:\Users\Luizão157\Desktop\Minha Pasta\Conteúdos\5º Semestre\Programação IV\aula-23-03\Exercicio9\obj\Debug\net5.0\Exercicio9.dll
+C:\Users\Luizão157\Desktop\Minha Pasta\Conteúdos\5º Semestre\Programação IV\aula-23-03\Exercicio9\obj\Debug\net5.0\refint\Exercicio9.dll
+C:\Users\Luizão157\Desktop\Minha Pasta\Conteúdos\5º Semestre\Programação IV\aula-23-03\Exercicio9\obj\Debug\net5.0\Exercicio9.pdb
+C:\Users\Luizão157\Desktop\Minha Pasta\Conteúdos\5º Semestre\Programação IV\aula-23-03\Exercicio9\obj\Debug\net5.0\Exercicio9.genruntimeconfig.cache
+C:\Users\Luizão157\Desktop\Minha Pasta\Conteúdos\5º Semestre\Programação IV\aula-23-03\Exercicio9\obj\Debug\net5.0\ref\Exercicio9.dll
